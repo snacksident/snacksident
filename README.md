@@ -6,7 +6,7 @@ full stack developer
 
 * 🌍  i'm based in san diego
 * ✉️  you can contact me at [andy.m.olsen@gmail.com](mailto:andy.m.olsen@gmail.com)
-* 🚀  i'm currently working on [lawlers law twitter bot](http://twitter.com/lawlers_laws)
+* 🚀  i'm currently furthering my knowledge on websockets!
 
 ### Skills
 
