@@ -6,7 +6,7 @@ full stack developer
 
 * 🌍  i'm based in san diego
 * ✉️  you can contact me at [andy.m.olsen@gmail.com](mailto:andy.m.olsen@gmail.com)
-* 🚀  i'm currently furthering my knowledge on websockets!
+* 🚀  i'm currently on a deep dive with socket.io as a collaboration tool!
 
 ### Skills
 
