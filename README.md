@@ -6,7 +6,7 @@ full stack developer
 
 * 🌍  i'm based in san diego
 * ✉️  you can contact me at [andy.m.olsen@gmail.com](mailto:andy.m.olsen@gmail.com)
-* 🚀  currently studying React
+* 🏎 working on Guitar Steero (an in-browser guitar-hero clone for racing telemetry)
 
 ### Skills
 
